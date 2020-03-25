@@ -8,7 +8,7 @@
  ```
  
  ```
- cd chatroom
+ cd url-shortner
  ```
  
  ```
